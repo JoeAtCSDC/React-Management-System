@@ -1,3 +1,6 @@
+##Management System
+This project is for the React tutorial of developing the Mangement system
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
